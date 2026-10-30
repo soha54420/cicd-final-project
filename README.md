@@ -1,3 +1,8 @@
+# ci-cd-final-project
+
+Final Project for IBM Continuous Integration and Continuous Delivery (CI/CD).
+
+This project demonstrates CI/CD automation using GitHub Actions, Tekton, and OpenShift Pipelines.
 # CI/CD Pipeline Project for OpenShift
 
 ## Project name
